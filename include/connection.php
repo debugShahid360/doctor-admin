@@ -1,5 +1,5 @@
 <?php
-    $conn=mysqli_connect("localhost","root","","hospital-inventory");
+    $conn=mysqli_connect("localhost","root","","");
     if($conn){
         // echo "<script>alert('Your connection has been successfully ')</script>";
     }else{
